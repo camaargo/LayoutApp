@@ -1,16 +1,10 @@
-# myapp
+# Layout App
 
-A new Flutter project.
+Este projeto de layout tem como objetivo criar uma interface de usuário responsiva e atraente para um site ou aplicativo. O foco principal é proporcionar uma experiência de usuário intuitiva e visualmente agradável, utilizando tecnologias modernas de desenvolvimento web.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Design Responsivo:** Adapta-se a diferentes tamanhos de tela e dispositivos.
+**Componentes Personalizáveis:** Inclui uma variedade de componentes de UI que podem ser facilmente customizados.
+**Compatibilidade entre Navegadores:** Testado em vários navegadores para garantir uma experiência consistente.
+**Fácil Integração:** Pode ser integrado a projetos existentes com facilidade.
