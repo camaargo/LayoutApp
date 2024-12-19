@@ -5,6 +5,5 @@ Este projeto de layout tem como objetivo criar uma interface de usuário respons
 ## Funcionalidades
 
 - **Design Responsivo:** Adapta-se a diferentes tamanhos de tela e dispositivos.
-- **Componentes Personalizáveis:** Inclui uma variedade de componentes de UI que podem ser facilmente customizados.
-- **Compatibilidade entre Navegadores:** Testado em vários navegadores para garantir uma experiência consistente.
+- **Compatibilidade entre Navegadores:** Testado em vários navegadores para garantir uma boa experiência.
 - **Fácil Integração:** Pode ser integrado a projetos existentes com facilidade.
